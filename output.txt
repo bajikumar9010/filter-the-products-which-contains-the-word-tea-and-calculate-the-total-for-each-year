@@ -1,0 +1,11 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows   
+
+PS C:\Users\guntu>  & 'C:\Program Files\Java\jdk-18\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\guntu\AppData\Local\Temp\vscodesws_a6759\jdt_ws\jdt.ls-java-project\bin' 'Abcd'
+Tea totals by year:
+2021: 20.0
+2022: 15.0
+2023: 15.0
+PS C:\Users\guntu>
